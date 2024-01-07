@@ -1,0 +1,5 @@
+python==3.9
+tensorflow==2.15.0
+keras==2.15.0
+gensim==4.3.2
+nltk==3.8.1

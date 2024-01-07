@@ -1,0 +1,2 @@
+# The Python3 version of HANCD
+This is an unofficial modification of the model in LuCheng's [Modeling Temporal Patterns of Cyberbullying Detection with Hierarchical Attention Networks](https://github.com/GitHubLuCheng/Modeling-Temporal-Patterns-of-Cyberbullying-Detection)
