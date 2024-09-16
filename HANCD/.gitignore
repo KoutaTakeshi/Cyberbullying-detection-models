@@ -1,0 +1,9 @@
+*.bin
+*.pickle
+*.ipynb
+*.txt
+
+\.ipynb_checkpoints/
+__pycache__/
+logs/
+weights/
